@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.Oussama.Deplacement.FizzBuzzTest" tests="25" skipped="0" failures="0" errors="0" timestamp="2025-12-14T13:19:11" hostname="0USSAMA" time="0.716">
+  <properties/>
+  <testcase name="[1] 1" classname="com.Oussama.Deplacement.FizzBuzzTest" time="0.18"/>
+  <testcase name="[2] 2" classname="com.Oussama.Deplacement.FizzBuzzTest" time="0.009"/>
+  <testcase name="[3] 3" classname="com.Oussama.Deplacement.FizzBuzzTest" time="0.003"/>
+  <testcase name="[4] 4" classname="com.Oussama.Deplacement.FizzBuzzTest" time="0.006"/>
+  <testcase name="[5] 5" classname="com.Oussama.Deplacement.FizzBuzzTest" time="0.018"/>
+  <testcase name="[6] 6" classname="com.Oussama.Deplacement.FizzBuzzTest" time="0.006"/>
+  <testcase name="[7] 7" classname="com.Oussama.Deplacement.FizzBuzzTest" time="0.005"/>
+  <testcase name="[8] 8" classname="com.Oussama.Deplacement.FizzBuzzTest" time="0.009"/>
+  <testcase name="[9] 9" classname="com.Oussama.Deplacement.FizzBuzzTest" time="0.033"/>
+  <testcase name="[10] 10" classname="com.Oussama.Deplacement.FizzBuzzTest" time="0.005"/>
+  <testcase name="[11] 11" classname="com.Oussama.Deplacement.FizzBuzzTest" time="0.002"/>
+  <testcase name="[12] 12" classname="com.Oussama.Deplacement.FizzBuzzTest" time="0.004"/>
+  <testcase name="[13] 13" classname="com.Oussama.Deplacement.FizzBuzzTest" time="0.005"/>
+  <testcase name="[14] 14" classname="com.Oussama.Deplacement.FizzBuzzTest" time="0.006"/>
+  <testcase name="[15] 15" classname="com.Oussama.Deplacement.FizzBuzzTest" time="0.006"/>
+  <testcase name="[16] 16" classname="com.Oussama.Deplacement.FizzBuzzTest" time="0.017"/>
+  <testcase name="[17] 17" classname="com.Oussama.Deplacement.FizzBuzzTest" time="0.011"/>
+  <testcase name="[18] 18" classname="com.Oussama.Deplacement.FizzBuzzTest" time="0.007"/>
+  <testcase name="[19] 19" classname="com.Oussama.Deplacement.FizzBuzzTest" time="0.005"/>
+  <testcase name="[20] 20" classname="com.Oussama.Deplacement.FizzBuzzTest" time="0.012"/>
+  <testcase name="test15()" classname="com.Oussama.Deplacement.FizzBuzzTest" time="0.004"/>
+  <testcase name="test1()" classname="com.Oussama.Deplacement.FizzBuzzTest" time="0.003"/>
+  <testcase name="test2()" classname="com.Oussama.Deplacement.FizzBuzzTest" time="0.001"/>
+  <testcase name="test3()" classname="com.Oussama.Deplacement.FizzBuzzTest" time="0.017"/>
+  <testcase name="test5()" classname="com.Oussama.Deplacement.FizzBuzzTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
